@@ -1,3 +1,9 @@
+theme: jekyll-theme-cayman
+title: Welcome to my homepage!!
+description: This is a test tutorial page for my learning purposes only
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/liuy0311/github_pages_tutorial.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
